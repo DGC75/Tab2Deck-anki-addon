@@ -1,0 +1,10 @@
+{
+    "package": "tab2deck_addon",
+    "name": "Tab2Deck",
+    "description": "Easily create structured Anki decks and notes from a tab-indented text file. Supports hierarchical decks and inline card creation.",
+    "human_version": "1.0",
+    "mod": 0,
+    "max_point_version": 0,
+    "min_point_version": 0
+  }
+  

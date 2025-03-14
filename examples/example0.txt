@@ -1,0 +1,20 @@
+TestDeck
+    MyLanguages
+        Spanish
+            .hello?;hola!
+            Vocabulary
+                .word1;palabra1
+                .word2;palabra2
+            Grammar
+                .What is a verb?;A verb is an action word.
+        French
+            .bonjour?;hello in French
+            Vocabulary
+                .wordA;motA
+            Grammar
+                .What is a noun?;A noun is a person, place, or thing.
+    MyHobbies
+        Guitar
+            .What is a chord?;A chord is a combination of notes played simultaneously.
+        Photography
+            .What is aperture?;Aperture is the opening in a lens through which light passes.
